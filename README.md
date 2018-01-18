@@ -8,11 +8,11 @@ IPython magic for executing *LaTeX* `tikz` code and rendering result in Jupyter 
 
 To install:
 
-`pip install https://github.com/innovationOUtside/ipython_magic_tikz.git`
+`pip install git+https://github.com/innovationOUtside/ipython_magic_tikz.git`
 
 To upgrade a current installation to the latest repo version without updating dependencies:
 
-`pip install --upgrade --no-deps https://github.com/innovationOUtside/ipython_magic_tikz.git`
+`pip install --upgrade --no-deps git+https://github.com/innovationOUtside/ipython_magic_tikz.git`
 
 To load the magic in a Jupyter notebook:
 
